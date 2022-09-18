@@ -60,7 +60,7 @@ This is the estimate impact (finantial/temporary spatioal) for the linked vulner
 
 * **Risk Level**
 This is assessed according to the matrix 
-![a5355c6e20d4695cb79011e639a23bba.png](../_resources/a5355c6e20d4695cb79011e639a23bba.png)
+<img src=a5355c6e20d4695cb79011e639a23bba.png>
 
 * **Recommended Security controls**
 These are specific security controls recommended by the team
