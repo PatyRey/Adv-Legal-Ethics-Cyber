@@ -13,7 +13,7 @@ top# Chapter 2
 
 	The three supplemental factos - Internal incident and global vulnerability reports, standard and best practices, and user feedback - are all part of they are all part of the of the success of any security management system
 
-![571cf30419d27b60bdf1d9bab3fc8d41.png](../_resources/571cf30419d27b60bdf1d9bab3fc8d41.png)
+<img src=571cf30419d27b60bdf1d9bab3fc8d41.png>
 
 #
 
