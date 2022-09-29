@@ -95,7 +95,7 @@ Poor performance may be due to an imbalance in the use of access points, insuffi
 * **Hacker attacks**
 Hackers attempt to gain unauthorized access over wireless networks. Intrusion detection systems, antivirus software, and firewalls are mitigation
 
-* ** Physical security deficiencies**
+* **Physical security deficiencies**
 This is in the domain of physical security. Both network devices and mobile devices should be subject to physical security policies and procedures
 
 
