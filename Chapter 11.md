@@ -218,3 +218,72 @@ A log or other record of all changes should be kept to supplement the change req
 `d`
 ##
 
+11. Which of the following is a common security threat meantioned in NIST SP 800-123?
+* Sensitive information on the server may be read by unauthorized individuals or changed in an unauthorized manner.
+* Denial-of-service (DoS) attacks may be directed to the server or its supporting network infrastructure, denying or hindering valid users from making use of its services.
+* Malicious entities may exploiy software bugs in the server or its underlying operating system to gain unauthorized access to the server.
+* All of the above
+
+##
+`d`
+##
+
+12. A(an) __________________ is a software that runs on top of hardware and gives services to the VMs by acting as a resource broker. It allows multiple VMs to safely coexist on a single physical server host and share that host's resources.
+* VM software broker
+* Hypervisor
+* Resource library
+* None of the above
+
+##
+`b`
+##
+
+13. This is all about emulating all netwok and storage (block) devices that different native drivers in VMs are expecting, mediating access to physical devices by different VMs.
+* Device emulation and access control
+* Emulation and access management
+* Emulation and access of VMs
+* None of the above
+
+##
+`a`
+##
+
+14. A(an) __________________ is a contract between a service provider and its internal or external customers that documents what services the provider will furnish and defines the performance standards the provider is obligated to meet.
+* Service management agreement
+* Standard level agreement
+* Service level agreement
+* None of the above
+
+##
+`c`
+##
+
+15. Which of the following is an effective backup policy an organization can ensure?
+* Recovery procedures must be tested on an annual basis.
+* At minimum, one fully recoverable version of all data must be stored in a secure offsite location
+* Tri-level or better, N level redundancy must be maintained at the server level 
+* All of the above
+
+##
+`d`
+##
+
+16. Adequate advance notice should be given, especially if a response is expected and a proper response matrix with contact details is known. This guideline for developing a change management strategy is known as:
+* Communication
+* Intercommunication
+* Announcements
+* None of the above
+
+##
+`a`
+##
+
+17. The change should be tested prior to implementation. This guideline for developing a change management strategy is known as:
+* Critical change
+* Plan the change
+* Test the change
+* Execute the change
+
+##
+`c`
+##
