@@ -286,3 +286,13 @@ The AAL describes the degree of confidence in the registration and authenticatio
 `c`
 ##
 
+20.  Which of following is a common attack on password-based authentication?
+
+* Offline Dictionary Attack
+* Specific account attack
+* Workstation hijacking
+* All above are common attacks on password-based
+
+##
+`d`
+##
