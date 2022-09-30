@@ -179,9 +179,9 @@ This type of attack involves an adversary inserting as a relay point between two
 `a`
 ##
 
-4. ______ The attempt to gain unauthorized access over wireless network. Intrusion detection system, antivirus software, and firewalls are mitigation techniques known as ________
+4. The attempt to gain unauthorized access over wireless networks. Intrusion detection system, antivirus software, and firewalls are mitigation techniques is known as _____________.
 * Eavesdropping
-* Hacker attack
+* Hacker attacks
 * Unauthorized attack
 * None of the above
 
@@ -316,8 +316,25 @@ This type of attack involves an adversary inserting as a relay point between two
 ##
 `d`
    
+11. ISO 27002 advocates which of the following ways to protect emails?
+* Obtaining approval prior to using external public services such as instant messaging and social network
+* Giving legal consideration, sucha s requirements fro electronic signatures
+* Using file sharing instead of sending sensitive data unencrypted over email
+* All of the above
 
+##
+`d`
+##
 
+12. Interception of control packets enables an adeversary to listen in on unsecured VoIP call, is known as:
+* Spam over Internet telephone (SPIT)
+* Eavesdropping 
+* Theft of service 
+* None of the above
+
+##
+`b`
+##
 
 
   
