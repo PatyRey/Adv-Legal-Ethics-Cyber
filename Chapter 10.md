@@ -263,3 +263,26 @@ The AAL describes the degree of confidence in the registration and authenticatio
 
 ##
 `c`
+
+18. Which of the following is a major criteria in designing a biometric system in which the difficulty of circumventing the system should meet a required threshold?
+
+* Offline Dictionary Attack
+* Workstation hijacking
+* Password guessing against a single use
+* Exploiting user mistakes
+
+##
+`a`
+##
+
+19.  The attack on password-based authentication in which the attacker waits until a logged-in workstation is unattended?
+
+* Password guessing against a single use
+* Exploiting user mistakes
+* Workstation hijacking
+* Offline Dictionary Attack
+
+##
+`c`
+##
+
