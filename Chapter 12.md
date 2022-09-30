@@ -189,7 +189,7 @@ This type of attack involves an adversary inserting as a relay point between two
 `b`
 ##
 
-5. In general , email security threats can be classified as which of the following?
+5. In general, email security threats can be classified as which of the following?
 * Integrity related threat
 * All of the above
 * Authenticity related threat
@@ -257,7 +257,7 @@ This type of attack involves an adversary inserting as a relay point between two
 `c`
 ##
 
-12. _______ are APs that users install without coordinating with IT. Access controls, encryption, and authentication procedures enable IT to maintain control
+12. _______ are APs that users install without coordinating with IT. Access controls, encryption, and authentication procedures enable IT to maintain control.
 * None of the above
 * Access constrains
 * Rogue access point
@@ -267,7 +267,7 @@ This type of attack involves an adversary inserting as a relay point between two
 `c`
 ##
 
-13. This threat could prevent end users from being able to send or receive emails
+13. This threat could prevent end users from being able to send or receive emails.
 * Confidentiality related threat
 * Integrity related threat
 * Availability related threat
@@ -307,7 +307,7 @@ This type of attack involves an adversary inserting as a relay point between two
 `d`
 ##
 
-10. This type of attack involves capturing access codes, allowing the adversary to get into the VoIP provider network and then use the facility:
+17. This type of attack involves capturing access codes, allowing the adversary to get into the VoIP provider network and then use the facility:
 * Eavesdropping
 * Spam over internet telephone
 * Man in the middle attack
@@ -316,9 +316,9 @@ This type of attack involves an adversary inserting as a relay point between two
 ##
 `d`
    
-11. ISO 27002 advocates which of the following ways to protect emails?
+18. ISO 27002 advocates which of the following ways to protect emails?
 * Obtaining approval prior to using external public services such as instant messaging and social network
-* Giving legal consideration, sucha s requirements fro electronic signatures
+* Giving legal consideration, such as requirements for electronic signatures
 * Using file sharing instead of sending sensitive data unencrypted over email
 * All of the above
 
@@ -326,15 +326,7 @@ This type of attack involves an adversary inserting as a relay point between two
 `d`
 ##
 
-12. Interception of control packets enables an adeversary to listen in on unsecured VoIP call, is known as:
-* Spam over Internet telephone (SPIT)
-* Eavesdropping 
-* Theft of service 
-* None of the above
 
-##
-`b`
-##
 
 
   
