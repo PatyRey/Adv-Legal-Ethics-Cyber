@@ -123,7 +123,6 @@ This phase involves publishing a report resulting from a forensic investigation.
 1. A technical ____________________________ could be a hardware, software, or firmware weakness or design deficiency that leaves an information system open to assault, harm, or unauthorized exploitation, either externally or internally, thereby resulting in an unacceptable risk of information compromise, information alteration, or service denial. 
 * Error
 * Data mismanagement
-* Correct!
 * Vulnerability
 * None of the above
 
