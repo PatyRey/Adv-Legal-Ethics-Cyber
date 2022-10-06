@@ -81,7 +81,7 @@ This technique looks for a partial match on a protected document. It involves th
   * All of the above
 
 ##
-`a `
+`d `
 ##
 
 2. Which of the following is NOT a key characteristic of a security architecture
