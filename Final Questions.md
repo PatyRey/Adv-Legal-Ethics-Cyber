@@ -865,3 +865,126 @@
 ##
 `c`
 ##
+
+
+***
+# Quiz 15
+
+1. A technical ____________________________ could be a hardware, software, or firmware weakness or design deficiency that leaves an information system open to assault, harm, or unauthorized exploitation, either externally or internally, thereby resulting in an unacceptable risk of information compromise, information alteration, or service denial. 
+* Error
+* Data mismanagement
+* Vulnerability
+* None of the above
+
+##
+`c`
+##
+
+2. Which of the following is NOT a key step are involved in vulnerability management?
+ * Scan for vulnerabilities
+ * Remove known vulnerabilities
+ * Remediate vulnerabilities
+ * Discover known vulnerabilities
+
+##
+`b`
+##
+
+3. A (an) ______________________________ is a system that can detect an intrusive activity and can also attempt to stop the activity, ideally before it reaches its targets.
+*  Antivirus software
+*  Web application firewall
+*  Intrusion prevention system
+* None of the above
+
+##
+`c`
+##
+
+4. A(an)  _____________________ is a firewall that monitors, filters, or blocks data packets as they travel to and from a web application.
+*  Web application firewall
+*  Antivirus software
+*  Intrusion prevention system
+*  None of the above
+
+##
+`a`
+##
+
+5. ISO 27035-1 lists which of the following objectives for security incident management?
+* Information security events are detected and dealt with efficiently. This involves deciding when they should be classified as information security incidents.
+* Identified information security incidents are assessed and responded to in the most appropriate and efficient manner.
+* The adverse effects of information security incidents on the organization and its operations are minimized by appropriate controls as part of incident response.
+
+*  All of the above
+
+##
+`d`
+##
+
+6. One of the following objectives for security incident management is to patch discovered vulnerabilities to prevent damage
+*  True
+*  False
+
+##
+`false`
+##
+
+7. ISO 27035 classifies security incidents in which of the following ways?
+ * Emergency
+ * Critical
+ * Warning
+ * All of the above
+
+##
+`d`
+##
+
+8. Which of the following classification of security incidents has medium impact?
+*  Warning
+*  Critical
+*  Emergency
+*  None of the above
+
+##
+`b`
+##
+
+9. Typical phases in a digital forensics process include which of the following?
+*  Preparation
+*  Identification
+*  Collection
+*  All of the above
+
+##
+`d`
+##
+
+10. This phase is initiated when there is a request for forensic analysis. This phase involves understanding the purpose of the request and the scope of the investigation, such as the type of case, subjects involved, and system involved.
+ * Identification
+ * Evaluation
+ * Reporting
+ * None of the above
+
+##
+`a`
+##
+
+11. The enterprise should deploy automated patch management tools and software update tools for operating system and software/applications on all systems for which such tools are available and safe. As a good practice, patches should be applied to all systems. This is known as:
+Correct!
+ * Remediate vulnerabilities 
+ * Log and report 
+ * Scan for vulnerabilities 
+ * None of the above
+ 
+##
+`a`
+##
+
+12. Which of the following is a key step are involved in vulnerability management?
+* Log and report 
+*  Plan vulnerability management 
+* Discover known vulnerabilities 
+* All of the above 
+##
+`d`
+## 
