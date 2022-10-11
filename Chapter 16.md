@@ -97,7 +97,7 @@
  *  Longer blackouts 
   
 ##
-`a`
+`b`
 ##
 
 10. An organization can counter human-caused physical threats by adopting which of the following measures?
@@ -137,6 +137,7 @@
 ##
 `b`
 ##
+
 14. Which measure in addressing the technical threats suggests that it is advisable to connect critical equipment to an emergency power source, such as a generator?
   * Electromagnetic interference 
  * Brief power interruptions 
@@ -176,4 +177,12 @@
 `d`
 ##
 
+18. Develop the local environment profile, determine the best way to implement enterprise security policy in the local environment, and oversee end-user awareness training are examples of key responsibilities of?
+  * Security profile 
+ *  Security architecture 
+  * Security coordinator 
+  * Security threat 
 
+##
+`c`
+##
