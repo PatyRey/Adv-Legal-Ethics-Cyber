@@ -9,7 +9,7 @@ Chapter 18
 6.  List the generic steps for security compliance monitoring
 
 
-# Quiz 17
+# Quiz 
 
 1. Which of the following is the key objective of a security audit?
 * To assess the process of internal audit
