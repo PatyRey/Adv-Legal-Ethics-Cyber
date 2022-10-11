@@ -249,3 +249,9 @@ This technique looks for a partial match on a protected document. It involves th
 ##
 `d`
 ##
+19. Security Architecture is a unified security design that addresses the necessities and potential risks involved in a certain scenario or environment. 
+20.  * True
+ * False
+##
+`a`
+##
