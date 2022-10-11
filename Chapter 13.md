@@ -92,7 +92,7 @@ SP 800-161 organizes security controls for SCRM into the following categories:
 
 # Quiz
 
-1.  SP 800-161 organizes security controls for SCRM (Supply chain risk management) into which of the following categories
+1.  SP 800-161 organizes security controls for SCRM (Supply chain risk management) into which of the following categories?
 
 - Awareness and training
 - Audit and accountability
@@ -103,7 +103,7 @@ SP 800-161 organizes security controls for SCRM into the following categories:
 `d`
 ##
 
-2.  SP 800-161 organizes security controls for SCRM (Supply chain risk management) into which of the following categories
+2.  SP 800-161 organizes security controls for SCRM (Supply chain risk management) into which of the following categories?
 
 - Access control
 - Maintenance
@@ -287,3 +287,14 @@ SP 800-161 organizes security controls for SCRM into the following categories:
 
 ##
 `d` the right answer is loss of governance
+##
+
+19. Which of the following is NOT a security control of the provenance family?
+
+- Provenance policy and procedures
+- Security management for provenance
+- Auditing roles responsible for provenance
+- Tracking provenance and developing a baseline
+##
+`b`
+##
