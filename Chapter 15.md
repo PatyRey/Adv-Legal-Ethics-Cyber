@@ -218,3 +218,23 @@ This phase involves publishing a report resulting from a forensic investigation.
 ##
 `a`
 ##
+
+11. The enterprise should deploy automated patch management tools and software update tools for operating system and software/applications on all systems for which such tools are available and safe. As a good practice, patches should be applied to all systems. This is known as:
+Correct!
+ * Remediate vulnerabilities 
+ * Log and report 
+ * Scan for vulnerabilities 
+ * None of the above
+ 
+##
+`a`
+##
+
+12. Which of the following is a key step are involved in vulnerability management?
+* Log and report 
+*  Plan vulnerability management 
+* Discover known vulnerabilities 
+* All of the above 
+##
+`d`
+## 
