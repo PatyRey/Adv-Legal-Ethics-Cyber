@@ -78,7 +78,7 @@
   * None
   
 ##
-`b`
+`c`
 ##
 
 8. Important measures that are effective in addressing technical threats includes which of the following?
