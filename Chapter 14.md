@@ -173,3 +173,79 @@ This technique looks for a partial match on a protected document. It involves th
 ##
 `d `
 ##
+
+11. One of the key characteristics of a security architecture include the models and principles show where to take which type of measures, when the principles are applicable, and how the principles connect with other principles
+
+ * True
+ * False
+
+##
+`a`
+##
+
+12. SP 800-83 indicates that good malware software has the following capabilities:
+  * It must scan each file for known malware. Anti-malware software on hosts should be configured to scan all hard drives regularly to identify any file system infections and, optionally, depending on organization security needs, to scan removable media inserted into the host before allowing its use
+  * Provides users with the accounts and access rights 
+  * Local, regional, or business units make the decisions for all access choices, provisioning, management, and technology
+  * None of the above 
+##
+`a`
+##
+
+13. Which of the following is NOT one of the best practices for avoiding common security mistakes with IAM?
+  * Stop breaches that start on endpoints by granting access to apps and infrastructure from trusted and secured endpoints.
+  * Deploy multifactor authentication judiciously 
+  * Train staff on policies and procedures 
+  * Implement portals for accessing the web as SaaS applications using single sign-on (SSO).
+
+##
+`c`
+##
+
+14. This refers to the scrambled message produced as output. It depends on the plaintext and the secret key. For a given data block, two different keys produce two different ciphertexts.
+* Ciphertext
+* Decryption algorithm
+* Secret key
+* None of the above 
+
+##
+`a`
+##
+
+15. This is the inverse of the encryption algorithm: It uses the ciphertext and the secret key and produces the original plaintext.
+* Plaintext
+* Encryption algorithm
+* Ciphertext
+* None of the above 
+
+##
+`a`
+##
+
+16. Which of the following is NOT a common way to recognize sensitive data in real-time?
+ * Rule-based 
+ * Multi-level data matching 
+ * Database fingerprinting 
+ * Partial document matching
+##
+`b`
+##
+
+17. Which of the following is a common way to recognize sensitive data in real-time?
+ * Exact file matching
+ * Database security
+ * Multi-level data matching 
+ * Database provider 
+
+##
+`a`
+##
+
+18. This is the inverse of the encryption algorithm: It uses the ciphertext and the secret key and produces the original plaintext.
+* Plaintext 
+* Encryption algorithm 
+* Ciphertext 
+* None of the above 
+##
+`d`
+##
