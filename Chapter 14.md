@@ -249,9 +249,19 @@ This technique looks for a partial match on a protected document. It involves th
 ##
 `d`
 ##
+
 19. Security Architecture is a unified security design that addresses the necessities and potential risks involved in a certain scenario or environment. 
-20.  * True
- * False
+* True
+* False
 ##
 `a`
+##
+
+20. SP 800-83 indicates that good malware software has the following capabilities:
+* It must scan critical host components, such as startup files and boot records.
+* It must watch real-time activities. Good anti-malware software should be confi gured to perform real-time scans of each fi le as it is downloaded, opened, or executed, which is known as on-access scanning.
+* It must monitor common applications, such as email, instant messaging software, email clients, and Internet browsers. Good anti-malware software monitors activity involving the applications most likely to be used to infect hosts or spread malware to other hosts.
+* All of the above
+##
+`c`
 ##
