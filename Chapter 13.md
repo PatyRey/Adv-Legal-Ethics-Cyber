@@ -298,3 +298,12 @@ SP 800-161 organizes security controls for SCRM into the following categories:
 ##
 `b`
 ##
+
+20. Which of the following is NOT a service model of cloud computing, according to NIST?
+  - Software as a service 
+  - Private cloud as a service 
+  - Infrastructure as a service 
+  - Platform as a service 
+##
+`b`
+##
