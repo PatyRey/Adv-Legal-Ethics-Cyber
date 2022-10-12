@@ -1,22 +1,19 @@
 ***1. Define a security audit.***
-**security audit** - An independent review and examination of a system’s records and activities to determine the adequacy of
-system controls, ensure compliance with established
-security policy and procedures, detect breaches in security
-services, and recommend any changes that are indicated for countermeasures.
+**security audit** - An independent review and examination of a system’s records and activities to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures.
 
 **2. List some of the auditable items suggested in the X.816 model of security audits and alarms.**
-*X.816 suggests the auditing the following:*
-	**Security events related to a specific connection:**
+
+**Security events related to a specific connection:**
 	■ Connection requests
 	■ Connection confirmed
 	■ Disconnection requests
 	■ Disconnection confi rmed
 	■ Statistics appertaining to the connection
-	**Security events related to the use of security services:**
+**Security events related to the use of security services:**
 	■ Security service requests
 	■ Security mechanisms usage
 	■ Security alarms
-	**Security events related to management:**
+**Security events related to management:**
 	■ Management operations
 	■ Management notifications
 **The list of auditable events should include at least the following:**
@@ -29,10 +26,10 @@ services, and recommend any changes that are indicated for countermeasures.
 	■ Use privilege
 	
 **3. Describe security performance functions.**
- *Security performance function as comprising three areas:*
-	■ **Security monitoring and reporting:** Consists of *monitoring* security performance regularly *and reporting* to specific audiences, such as executive management
-	■ **Information risk reporting:** Consists of producing reports relating to *information risk* and presenting *reporting* to executive management on a regular basis
-	■ **Information security compliance monitoring:** Consists of information security controls derived from regulatory and *legal drivers and contracts*, used to *monitor security compliance*
+
+**Security monitoring and reporting:** Consists of *monitoring* security performance regularly *and reporting* to specific audiences, such as executive management
+**Information risk reporting:** Consists of producing reports relating to *information risk* and presenting *reporting* to executive management on a regular basis
+ **Information security compliance monitoring:** Consists of information security controls derived from regulatory and *legal drivers and contracts*, used to *monitor security compliance*
 
 **4. Describe the three broad uses of security metrics.**
 
