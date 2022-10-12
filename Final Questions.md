@@ -2074,3 +2074,62 @@
 ##
 `d`
 #
+
+  12.  Does the key objective of a security audit trail suggest providing a historical record of progression based on a sequence of events to provide proof of compliance and operational integrity?
+*  True
+*  False
+
+ ##
+ `True`
+ ##
+ 
+ 13. Which of the following is a security performance function?
+ * Security monitoring and reporting
+ * Information risk reporting
+ * Information security compliance monitoring
+ * All of the above
+
+##
+ `d`
+ ##
+ 
+14.  This step involves the metrics development process. This step of implementing the monitoring and reporting function is known as:
+*  Collect data and analyze results
+*  Prepare for data collection
+*  Obtain resources
+*  None of the above
+
+##
+ `b`
+ ##
+
+15.  These actions may include adjustments in management, technical, and operational areas. This step of implementing the monitoring and reporting function is known as:
+*  Adjustment actions
+*  Apply corrective action
+*  Develop business case
+*  None of the above
+
+##
+ `b`
+ ##
+ 
+ 16.  What is the first step for security compliance monitoring?
+*  Perform a high-level gap analysis of each compliance requirement that is applicable to determine where progress needs to be made.
+*  Identify key standards, regulations, contractual commitments, and other areas that address specific requirements for security and privacy.
+*  Identify key stakeholders and/or partners across the organization who regularly deal with institutional compliance issues.
+*  None of the above
+
+##
+ `c`
+ ##
+ 
+ 17.  What is the fifth step for security compliance monitoring?
+*  Identify key stakeholders and/or partners across the organization
+*  Identify key standards, regulations, contractual commitments, and other areas that address specific requirements for security and privacy
+*  Develop a compliance policy, standard, roles, and responsibilities, and/or procedures in collaboration with other stakeholders
+*  None of the above
+
+##
+ `c`
+ ##
+ 
