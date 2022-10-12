@@ -2064,3 +2064,13 @@
   ##
  `d`
  ##
+ 
+ 11.  Which of the following is the key objective of a security audit?
+* To assess the process of internal audit
+* To assess the scurity of system's physical configuration and environment, software, information handling processes and user practices
+* To provide advisory and training
+* To monitor security performance
+
+##
+`d`
+#
