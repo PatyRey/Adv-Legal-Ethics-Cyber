@@ -112,3 +112,12 @@ Chapter 18
 ##
 `d`
 ##
+
+10. Which of the following is an auditable item suggested in the X.816 model of security audits and alarms?
+ * Events such as access denials, authentication, and attribute changes 
+ * Individual security services such as authentication results, access control results, non-repudiation, and integrity responses
+ *  Security-related events related to management, such as management operations/notifications
+ * All of the above 
+##
+`d`
+##
