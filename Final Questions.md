@@ -1962,9 +1962,11 @@
 - Crisis management
 - Business recovery/restoration
 - All of the above
-
+ ##
 `d`
-
+ ##
+ 
+***
 # Quiz 18
 
 1. Does the key objective of a security audit trail suggest providing a historical record of progression based on a sequence of events to provide proof of compliance and operational integrity?
@@ -1972,10 +1974,10 @@
  * False
  
  ##
- `true`
+ `True`
  ##
  
- 2. Fill in the blank: A _________________________________ is an independent review and examination of a system’s records and activities to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures. 
+2. Fill in the blank: A _______________________________is an independent review and examination of a system’s records and activities to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures. 
 *  Security audit management
 *  Security audit trail
 *  Security audit
@@ -1984,7 +1986,7 @@
  ##
  `c`
  ##
-
+ 
 3. Which of the following is NOT an auditable item suggested in the X.816 model of security audits and alarms?
 *  Security-related events related to a specific connection, such as connection request/confirmation
 *  Events such as access denials, authentication, and attribute changes
@@ -2004,28 +2006,25 @@
   ##
  `a`
  ##
- 
- 5. This consists of monitoring security performance regularly and reporting to specific audiences, such as executive management.
+5. This consists of monitoring security performance regularly and reporting to specific audiences, such as executive management.
 *  Information risk reporting
 *  Information security compliance monitoring
 *  Security monitoring and reporting
 *  None of the above
  
-  ##
+##
  `c`
- ##
- 
-6. This consists of information security controls derived from regulatory and legal drivers and contracts used to monitor security compliance.
-*  Security monitoring and reporting
+##
+ 6. This consists of information security controls derived from regulatory and legal drivers and contracts used to monitor security compliance.
+* Security monitoring compliance
 *  Information risk reporting
-*  Information Compliance Management
-*  None of the above
+*  Information Compliance Aanagement
+* None of the above
 
- ##
- `d`
- ##
- 
- 7. These actions may include adjustments in management, technical, and operational areas. This step of implementing the monitoring and reporting function is known as:
+##
+`d`
+##
+  7. These actions may include adjustments in management, technical, and operational areas. This step of implementing the monitoring and reporting function is known as:
 *  Adjustment actions
 *  Apply corrective action
 *  Develop business case
@@ -2044,36 +2043,34 @@
  ##
  `d`
  ##
- 
- 9.  What is the fifth step for security compliance monitoring?
- * Identify key stakeholders and/or partners across the organization
- * Identify key standards, regulations, contractual commitments, and other areas that address specific requirements for security and privacy
- * Develop a compliance policy, standard, roles, and responsibilities, and/or procedures in collaboration with other stakeholders
- * None of the above
- 
-  ##
- `c`
- ##
- 
+
+9. What is the fifth step for security compliance monitoring?
+* Identify key stakeholders and/or partners across the organization
+*  Identify key standards, regulations, contractual committments, and other areas that address specific requirements for security and privacy
+*  Develop a compliance policy, standard, roles and responsibilities, and/or procedures in collaboration with other stakeholders
+* None of the above
+
+##
+`c`
+##
  10.  Which of the following is a step for security compliance monitoring?
 *  Identify key stakeholders and/or partners across the organization
 *  Identify key standards, regulations, contractual commitments, and other areas that address specific requirements for security and privacy
 *  Develop a prioritized action plan to help organize remedial efforts
 *  All of the above
 
-  ##
+##
  `d`
  ##
- 
  11.  Which of the following is the key objective of a security audit?
 * To assess the process of internal audit
-* To assess the scurity of system's physical configuration and environment, software, information handling processes and user practices
+* To assess the security of system's physical configuration and environment, software, information handling processes and user practices
 * To provide advisory and training
 * To monitor security performance
 
 ##
 `d`
-#
+##
 
   12.  Does the key objective of a security audit trail suggest providing a historical record of progression based on a sequence of events to provide proof of compliance and operational integrity?
 *  True
@@ -2122,28 +2119,8 @@
 ##
  `c`
  ##
- 
- 17.  What is the fifth step for security compliance monitoring?
-*  Identify key stakeholders and/or partners across the organization
-*  Identify key standards, regulations, contractual commitments, and other areas that address specific requirements for security and privacy
-*  Develop a compliance policy, standard, roles, and responsibilities, and/or procedures in collaboration with other stakeholders
-*  None of the above
 
-##
- `c`
- ##
- 
- 18. A _________________________________ is an independent review and examination of a system’s records and activities to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures. 
-*  Security audit management
-*  Security audit trail
-*  Security audit
-*  None of the above
-
-##
-`b`
-##
-
-19.  Which of the following is the key objective of a security audit?
+17.  Which of the following is the key objective of a security audit?
 *  To assess the process of internal audit
 *  To assess the security of the system´s physical configuration and environment, software, information handling processes and user practices
 *  To provide advisory and training
@@ -2153,7 +2130,7 @@
 `d`
 ##
 
-20.  Which of the following is a security performance function?
+18.  Which of the following is a security performance function?
 *  Security monitoring and reporting
 *  Information risk reporting
 *  Information security compliance monitoring
@@ -2163,24 +2140,42 @@
 `d`
 ##
 
-21.  This involves developing a cost model for each corrective action and making business care for taking that action. This step of implementing the monitoring and reporting function is known as:
+19. This involves developing a cost model for each corrective action and making business care for taking that action. This step of implementing the monitoring and reporting function is known as:
 *  Apply corrective actions
 *  Obtain resources
 *  Develop business care
-*  Indentify corrective actions
+* Identify corrective actions
 
 ##
 `c`
 ##
 
-22.  This step involves the metrics development process. This step of implementing the monitoring and reporting function is known as:
-*  Collect data and analyze results
-*  Prepare for data collection
-*  Obtain resources
-*  None of the above
+20. This consists of producing reports related to information risk and presenting reporting to executive management on a regular basis.
+*  Information risk reporting
+*  Information security compliance management
+* Security monitoring compliance
+* None of the above
 
 ##
-`b`
+`a`
 ##
 
- 
+21. Which of the following is NOT a step for security compliance monitoring?
+*  Perform a high level gap analysis of each compliance requirement that is application to determine where progress needs to be made.
+*  Develop a prioritized action plan to help organize remedial efforts.
+* Develop a compliance policy, standard, roles and responsibilities, and /or procedures in collaboration with other key stakeholders.
+* All of all above are steps taken.
+
+##
+`d`
+##
+
+22. Fill in the blank: A _______________________________ is a chronological record of system activities that is sufficient to enable the reconstruction and examination of the sequence of environments and activities surrounding or leading to an operation, a procedure, or an event in a security-relevant transaction from inception to final results. 
+ * Security audit trail 
+ * Security audit 
+ * Security audit management 
+ * None of the above 
+
+##
+`a`
+##
