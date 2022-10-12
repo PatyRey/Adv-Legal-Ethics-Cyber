@@ -2133,3 +2133,54 @@
  `c`
  ##
  
+ 18. A _________________________________ is an independent review and examination of a system’s records and activities to determine the adequacy of system controls, ensure compliance with established security policy and procedures, detect breaches in security services, and recommend any changes that are indicated for countermeasures. 
+*  Security audit management
+*  Security audit trail
+*  Security audit
+*  None of the above
+
+##
+`b`
+##
+
+19.  Which of the following is the key objective of a security audit?
+*  To assess the process of internal audit
+*  To assess the security of the system´s physical configuration and environment, software, information handling processes and user practices
+*  To provide advisory and training
+*  To monitor security performance
+
+##
+`d`
+##
+
+20.  Which of the following is a security performance function?
+*  Security monitoring and reporting
+*  Information risk reporting
+*  Information security compliance monitoring
+*  All of the above
+
+##
+`d`
+##
+
+21.  This involves developing a cost model for each corrective action and making business care for taking that action. This step of implementing the monitoring and reporting function is known as:
+*  Apply corrective actions
+*  Obtain resources
+*  Develop business care
+*  Indentify corrective actions
+
+##
+`c`
+##
+
+22.  This step involves the metrics development process. This step of implementing the monitoring and reporting function is known as:
+*  Collect data and analyze results
+*  Prepare for data collection
+*  Obtain resources
+*  None of the above
+
+##
+`b`
+##
+
+ 
