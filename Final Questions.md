@@ -819,7 +819,7 @@
 * None of the above 
 
 ##
-`a`
+`d decription algothm`
 ##
 
 16. Which of the following is NOT a common way to recognize sensitive data in real-time?
